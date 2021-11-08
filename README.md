@@ -1,9 +1,15 @@
 # Text to Speech Converter Chrome Extension
 
-> Text to Speech Chrome Extension converts given Text to Speech.
+Text to Speech Chrome Extension converts given Text to Speech.
+
+Voice Options is given where User can choose different voices as per their choice.
+
+Here SpeechSynthesisVoice interface of the Web Speech API is used for getting voice that the system supports.
+
+Resume and Pause functionality is displayed when content length is greater than 80.
 
 
-#### Screenshot
+## Screenshots
 
 ![Text to Speech Converter Chrome Extension](./Readme_Media/Text_To_Speech_Chrome_Extension.png)
 
@@ -12,7 +18,9 @@
 
 ## Built With
 
-* JavaScript 
+* JavaScript
+* Html
+* Css 
 
 ## Run Locally 
 
